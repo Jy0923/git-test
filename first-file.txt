@@ -1,2 +1,2 @@
 test test중입니다.
-new-feature
+awesome-feature
